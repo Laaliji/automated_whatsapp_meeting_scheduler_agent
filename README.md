@@ -170,7 +170,7 @@ The application uses environment variables for configuration. A `.env` file is c
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](assets/architecture.md)
+![Architecture Diagram](/app/assets/Charte graphique.png)
 
 ### Core Components
 
